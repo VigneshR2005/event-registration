@@ -6,7 +6,7 @@ To design, develop and deploy a web application for event registration.
 ## DESIGN STEPS:
 
 ### Step 1:
-Choose a color palette and idea for the webpage with your team members.
+Choose color palette and idea for the webpage with your team members.
 
 ### Step 2:
 Open Figma and create  new project file and share the invite to your team members.
